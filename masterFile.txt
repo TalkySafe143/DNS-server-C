@@ -1,0 +1,12 @@
+$ORIGIN cloud-ec-asn.amp.cisco.com
+		$INCLUDE masterFile.txt cloud-ec-asn.amp.cisco.com
+		cloud-ec-asn.amp.cisco.com 134217728 IN A 192.111.4.116
+
+$ORIGIN javeriana.edu.co
+		$INCLUDE masterFile.txt javeriana.edu.co
+		javeriana.edu.co 0 IN A 10.26.1.144
+
+$ORIGIN cisco.com
+		$INCLUDE masterFile.txt cisco.com
+		cisco.com 3405774848 IN A 72.163.4.185
+

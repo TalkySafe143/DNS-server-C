@@ -1,0 +1,7 @@
+CMakeLists.txt
+*.exe
+cmake-build-debug
+.idea
+DNSfinal.cpp
+mainDNS.cpp
+main.cpp
